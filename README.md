@@ -76,7 +76,7 @@ Falaa Devs! tudo bem com vocês? meu nome é Luciel Roberto, criei esse Github p
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="140" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucielRobertooo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
