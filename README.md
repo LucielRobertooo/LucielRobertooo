@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luciel Roberto
+# 🧑‍💻 Luciel Roberto
 
 **`Estudante FullStack`**
 
