@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 
-Falaa Devs! tudo bem com vocês? meu nome é Luciel Roberto, criei esse Github para divulgar todo meus conhecimento atualmente estou estudando pela rocketseat espero que gostem e curtam meus projetos.
+Falaa Devs! tudo bem com vocês? meu nome é Luciel Roberto, criei esse Github para divulgar todos meus conhecimentos, atualmente estou estudando pela rocketseat espero que gostem e curtam meus projetos.
 
 <p align="left">
     </a>
